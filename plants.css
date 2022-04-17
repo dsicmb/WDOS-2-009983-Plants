@@ -1,0 +1,531 @@
+
+*
+{
+    margin :0 ;
+    padding : 0 ;
+    font-family : Helvetica, Arial, sans-serif ;
+    scroll-behavior : smooth ;
+}
+
+#header
+{
+    height : 100vh ;
+    background-image : url(Images/mainPlants.jpg) ;
+    background-position : center ; /* top , bottom , left , right , center */
+    background-image : auto ; /* auto , contain , cover */
+}
+
+.container
+{
+    margin-right : 100px ;
+    margin-left : 100px ;
+}
+
+.logo 
+{
+    margin-left : -30px ;
+    width :300px ;
+}
+
+.header-text
+{
+  max-width : 350px ;
+  margin-top : 100px ;
+}
+
+h1
+{
+    font-size : 35px ;
+}
+
+p
+{
+    font-size : 15px ;
+    line-height : 18px ;
+    color : #777 ;
+}
+
+.header-text button 
+{
+    margin-top : 20px ;
+    margin-bottom : 60px ;
+}
+
+
+#sideNav
+{
+    width : 250px ;
+    height :100vh ;
+    position : fixed ;
+    right : -250px ;
+    top : 0 ;
+    background : #231F20 ;
+    transition : 1.0s ;
+}
+
+#sideNav a:hover
+ {
+  color : #F7D7B5 ;
+ }
+
+
+nav ul li 
+{
+    list-style : none ;
+    margin : 50px 20px  ;
+}
+
+nav ul li a
+{
+    text-decoration : none ;
+    color : #ffffff ;
+}
+
+#menuBtn
+{
+    width : 120px ;
+    right : 25px ;
+    top : 25px ;
+    cursor : pointer ; 
+    position : fixed ; /* absolute , relative , fixed */
+    z-index : 2 ; /* Note: Z index only works on positioned elements */
+}
+
+/*---Secondary icons--*/
+
+.secondary-icons
+{
+    display : inline ;
+    width : 50px ;
+    top : 70% ;
+    right : 200px ;
+    float : right ;
+    transform : translateY(-50%) ;
+    z-index : 1 ;  
+}
+
+.secondary-icons img
+{
+    width : 30px ;
+    margin : 0 auto 20px ;
+    cursor : pointer ;
+}
+
+/* --- ABOUT ----- */
+
+#about
+{
+    padding : 100px 0  ; /* (top and bottom)=100px  and (left and right)=0 */
+    display : flex ; /* block , contents , flex , flow-root , grid , inherit , inline */
+    align-items : center ;  /* baseline,center,flex-end,flex-start,stretch */
+    flex-wrap : wrap ;
+}
+
+.about-left-col
+{
+    flex-basis : 50% ;
+}
+
+.about-left-col img
+{
+    width : 100% ;
+    margin-left : 60px ;
+}
+
+.about-right-col
+{
+    flex-basis : 50% ;
+    text-align : right ;
+}
+.about-text
+{
+    max-width : 500px ;
+    margin-right : 100px ;
+    display : inline-block ;
+}
+
+.about-text h2
+{
+    margin : 50px 0 10px;
+    font-size : 28px ;
+    font-style : italic ;
+}
+
+.about-text h3
+{
+    margin : 40px 0 10px;
+    font-size : 18px ;
+    font-style : italic ;
+}
+
+/*-- features-table---*/
+
+.plant-table
+{
+    margin-top : 20px  ;
+    margin-left : 80px  ;
+    margin-right : 40px  ;
+    
+}
+
+.table
+{
+    width : 100% ;
+    border-collapse : collapse ;
+}
+
+
+.table thead tr th , .table tfoot tr th
+{
+    font-size : 14px ;
+    font-weight : 600 ;
+    letter-spacing : 0.35px ;
+    opacity :1 ;
+    padding :12px;
+    vertical-align : top ;
+    border : 1px solid #E5E5E5 ;
+    background-color : #F5F5F5 ; 
+}
+
+.table tbody tr td , .table tbody tr th
+{
+    font-size : 14px ;
+    font-weight : 600 ;
+    letter-spacing : 0.35px ;
+    color : #777 ;
+    padding :20px;
+    text-align : justify ;
+    border : 1px solid #E5E5E5 ;
+}
+
+.table tbody tr th
+{
+    background-color : #F5F5F5 ;
+}
+
+
+.common-btn
+{
+    padding : 18px 40px ;
+    background : #FFFFFF ;
+    outline : none ;
+    border : 2px solid #8C5A49 ;
+    font-weight : bold ;
+    cursor : pointer ; 
+}
+
+.feature-btn
+{
+    margin : 20px auto 0 ;
+    display : flex ;
+    align-items : flex-end ;
+    justify-content : center ;
+}
+
+
+/*---FEATURES---*/
+
+#features
+{
+    padding-top : 50px ;
+    padding-bottom : 50px ;
+    background-color : #EFEFEF ;
+}
+
+.feature-row-title
+{
+    text-align : center ;
+    margin : 60px ;
+}
+
+.feature-row-title ul li 
+{
+    list-style : none ;
+}
+
+.feature-row
+{
+    width : 80% ;
+    margin : auto ;
+    display : flex ;
+    align-items : center ;
+    justify-content : space-around ;
+    flex-wrap : wrap ;
+}
+
+.feature-col
+{
+    flex-basis : 25% ;
+    text-align : center ;
+    background-color : #FFFFFF ;
+    margin-bottom : 20px ;
+    padding-bottom : 40px ;
+}
+
+.feature-col p , .feature-col h4
+{
+    padding : 20px ;
+}
+
+.feature-col img
+{
+    width : 350px ;
+  
+}
+
+.feature-col h4
+{
+    padding-bottom : 15px ;
+    font-size : 20px ;
+    font-weight : 400 ;
+}
+
+/*-- footer ---*/
+
+
+#footer 
+{
+    padding : 50px 0  30px ;
+}
+
+hr 
+{
+    width : 100% ;
+    border : 0 ;
+    border-top : 3px solid #8C5A49 ;
+    margin-bottom : 20px ;
+    margin-top : -20px ;
+}
+
+.footer-row
+{
+    display : flex ;
+    align-items : center ;
+    justify-content : space-between ; /*-- the remaining 15% will be allocated between left and right col---*/
+    flex-wrap : wrap ;
+}
+
+.footer-left-col
+{
+    flex-basis : 50% ;
+    margin-top : 60px ;
+}
+
+.footer-right-col
+{
+    flex-basis : 35% ;
+}
+
+.footer-links
+{
+    display : flex ;
+    justify-content : space-between ; 
+    flex-wrap : wrap ;
+}
+
+.link-title h4 
+{
+    color : #8C5A49 ;
+    margin : 20px ;
+}
+
+.link-title small 
+{
+    color : #777 ;
+    font-size : 13px ;
+}
+
+.footer-info
+{
+    display : flex ;
+    align-items : flex-end ;
+    justify-content : space-between ; 
+    flex-wrap : wrap ;
+}
+
+.footer-logo img
+{
+    width : 100% ;   
+}
+
+.footer-logo button
+{
+    padding : 12px 12px ;
+    margin-top : 20px ;
+    font-size : 10px ;
+}
+
+.copyright-text , .footer-logo
+{
+    flex-basis : 40% ;
+}
+
+/*---Social media icons--*/
+
+.social-icons
+{
+    width : 50px ;
+    position : fixed ;
+    top : 50% ;
+    left : 10px ;
+    transform : translateY(-50%) ;
+    z-index : 1 ;
+}  
+
+
+.social-icons img
+{
+    display : block ;
+    width : 30px ;
+    margin : 0 auto 20px ;
+    cursor : pointer ;
+}
+
+@media only screen and ( max-width : 1200px)
+{
+    .about-left-col , .about-right-col
+    {
+        flex-basis : 100% ;
+        margin-top : 20px ;
+    }
+
+    .about-left-col img
+    {
+        margin-left : 0 ;
+    }
+
+}
+ 
+
+@media only screen and ( max-width : 770px)
+{
+    #header
+    {
+        background-image : none ;
+    }
+
+    .container
+    {
+        margin-right : 50px ;
+        margin-left : 100px ;
+    }
+    
+    .logo 
+    {
+        margin-top : 47px ;
+        width : 330px ;
+    }
+
+    .header-text
+    {
+        margin-top : 100px ;
+    }
+
+    h1
+    {
+        font-size : 25px ;
+    }
+
+    #menuBtn
+    {
+        width : 80px ;
+        right : 50px ;
+    }
+
+    .common-btn
+    {
+        padding : 10px 16px ;
+    }
+
+    .social-icons img
+    {
+        width : 20px ;
+        margin : 15px auto ;
+    }
+
+    .about-left-col , .about-right-col
+    {
+        flex-basis : 100% ;
+    }
+
+    .about-left-col img
+    {
+        margin-left : 0 ;
+    }
+
+    .about-left-col img
+    {
+        margin-left : 0 ;
+    }
+
+    .about-text
+    {
+        margin: 50px 50px 0 ;
+        display : inline-block ;
+    }
+
+    .about-text h2
+    {
+        font-size : 18px ;
+    }
+
+    .footer-left-col , .footer-right-col
+    {
+        flex-basis : 100% ;
+    }
+
+    .link-title  
+    {
+        flex-basis : 50% ;
+        margin-bottom : 30px ;
+    }
+
+    hr 
+    {
+        border-top : 1px solid #8C5A49 ;
+    }
+
+    .footer-logo img
+    {
+        width : 150px ;
+        margin-bottom : 80px ;
+        margin-left : -150px ;
+    }
+
+    /*---tabel ---*/
+
+    .table thead , .table tbody tr th
+    {
+        display : none ;
+    }
+
+    .table , .table tbody , .table tr , .table td
+    {
+        display : block ;
+        width : 100% ;
+    }
+
+    .table tr 
+    {
+        margin-bottom : 40px ;
+    }
+
+    .table-plant 
+    {
+        margin-right : 40px  ;
+    }
+
+    .plant-name1
+    {
+        text-align : center ;
+        background-color : #F5F5F5 ;
+    }
+
+    .plant-name2
+    {
+        text-align : center ;
+        color : #000000 ;
+        font-size : 20px ;
+        text-transform : uppercase ;
+    }
+}
