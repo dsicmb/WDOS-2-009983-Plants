@@ -1,0 +1,73 @@
+{
+    "total_size" : 5,
+    "type_id" : 1,
+    "offset" : 0,
+    "items" : [
+        {
+            "id" : 1,
+            "name" : "Calathea Makoyanna",
+            "description" : "Goeppertia makoyanaa is an evergreen perinial growing to 45cm (18in), with round, pale, glossy green leaves. The upper surfaces of the leaves are marked with dark green blotches along the veins, and the lower surfaces coloured deep purple, with leaf shafts that are very thin. When new leaves grow they are rolled up and display their pinkish-red undersides. Like others in the genus, it has a horizontal soil stem, rhizome from which the plants grow up and the roots develop. It requires a minimum temperature of 16°C (61°F), and in temperate areas is often cultivated as a houseplant.Like other “prayer plant”, this plant also raises and closes its leaves at night and opens them up again as dawn breaks.",
+            "price" : 1500,
+            "stars" : 5,
+            "img1" : "images/plant01.jpg",
+            "img2" : "images/plant01-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-09-01 07:35:21",
+            "updated_at" : "2022-09-11 09:35:21",
+            "type_id" : 1
+        },
+        {
+            "id" : 2,
+            "name" : "Anthurium Plant",
+            "description" : "Anthurium is a genus of herbs often growing as epiphytes on other plants. Some are terrestrial. The leaves are often clustered and are variable in shape. The inflorescence bears small flowers which are perfect, containing male and female structures. The flowers are contained in close together spirals on the spadix. The spadix is often elongated into a spike shape, but it can be globe-shaped or club-shaped. Beneath the spadix is the spathe, a type of bract. This is variable in shape, as well, but it is lance-shaped in many species. It may extend out flat or in a curve. Sometimes it covers the spadix like a hood. The fruits develop from the flowers on the spadix. They are juicy berries varying in color, usually containing two seeds.",
+            "price" : 1500,
+            "stars" : 5,
+            "img1" : "images/plant02.jpg",
+            "img2" : "images/plant02-1.jpg",
+            "img2" : "images",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-10-01 07:30:21",
+            "updated_at" : "2022-10-11 09:35:21",
+            "type_id" : 1
+        }, 
+        {
+            "id" : 3,
+            "name" : "Peace Lilly",
+            "description" : "Spathiphyllum is a genus of about 47 species of monocotyledonous flowering plants in the family Araceae, native to tropical regions of the Americas and southeastern Asia. Certain species of Spathiphyllum are commonly known as spath or peace lilies.They are evergreen herbaceous perennial plants with large leaves 12-65 cm long and 3-25cm broad. The flowers are produced in a spadix, surrounded by a 10-30cm long, white, yellowish, or greenish spathe. The plant does not need large amounts of light or water to survive. They are most often grown as houseplants, however they are able to withstand the elements well enough to thrive when planted outdoors in situations that are hot and humid.",
+            "price" : 1500,
+            "stars" : 5,
+            "img1" : "images/plant03.jpg",
+            "img2" : "images/plant03-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-10-01 07:35:21",
+            "updated_at" : "2022-10-11 10:35:21",
+            "type_id" : 1
+        }, 
+        {
+            "id" : 4,
+            "name" : "Bunny Ear Cactus",
+            "description" : "Opuntia microdasys forms a dense shrub 40-60cm tall, occasionally more, composed of pad-like stems 6-15cm long and 4-12cm broad.Instead of spines it has numerous white or yellow glochids 2-3mm long in dense clusters. They are barbed and thinner than the finest human hairs, detaching in large numbers upon the slightest touch. If not removed they will cause considerable skin irritation so the plants must be treated with caution.The Latin specific epithet microdasys means “small and hairy”.The yellow flowers appear only rarely. Despite this, it is a very popular cactus in cultivation, partly because of the young plant's comical resemblance to a rabbit's head.",
+            "price" : 1500,
+            "stars" : 5,
+            "img1" : "images/plant04.jpg",
+            "img2" : "images/plant04-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-11-01 06:35:21",
+            "updated_at" : "2022-11-11 09:35:21",
+            "type_id" : 2
+        }, 
+        {
+            "id" : 5,
+            "name" : "Dum Cane Plant",
+            "description" : "Dumb cane is a beautiful house plant yet for both children and pets, contact with dieffenbachia (typically from chewing) can cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated. In patients with exposure to toxic plants, 70% are children younger than 5 years.",
+            "price" : 1500,
+            "stars" : 5,
+            "img1" : "images/plant05.jpg",
+            "img2" : "images/plant05-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-01 07:35:21",
+            "updated_at" : "2022-12-11 09:35:21",
+            "type_id" : 2
+        }
+    ]
+}
