@@ -1,5 +1,5 @@
 {
-    "total_size" : 5,
+    "total_size" : 7,
     "type_id" : 1,
     "offset" : 0,
     "items" : [
@@ -58,13 +58,39 @@
         {
             "id" : 5,
             "name" : "Dum Cane Plant",
-            "description" : "Dumb cane is a beautiful house plant yet for both children and pets, contact with dieffenbachia (typically from chewing) can cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated. In patients with exposure to toxic plants, 70% are children younger than 5 years.",
+            "description" : "Dumb cane is a beautiful house plant yet for both children and pets, contact with dieffenbachia (typically from chewing) can cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated.",
             "price" : 1850,
             "stars" : 5,
             "img1" : "images/plant05.jpg",
             "img2" : "images/plant05-1.jpg",
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-01 07:35:21",
+            "updated_at" : "2022-12-11 09:35:21",
+            "type_id" : 2
+        },
+         {
+            "id" : 6,
+            "name" : "Albo Syngonium",
+            "description" : "Albo Syngonium is simply an eye catching house plant yet for both children, contact with may cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated.",
+            "price" : 1450,
+            "stars" : 5,
+            "img1" : "images/plant06.jpg",
+            "img2" : "images/plant06-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-01 07:35:20",
+            "updated_at" : "2022-12-11 09:35:21",
+            "type_id" : 2
+        },
+         {
+            "id" : 7,
+            "name" : "Black Cardinal",
+            "description" : "Black Cardinal is such an elegant house plant yet for both children, contact with (typically from chewing) can cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated.",
+            "price" : 1950,
+            "stars" : 5,
+            "img1" : "images/plant07.jpg",
+            "img2" : "images/plant07-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-01 07:35:01",
             "updated_at" : "2022-12-11 09:35:21",
             "type_id" : 2
         }
