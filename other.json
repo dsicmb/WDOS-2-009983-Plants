@@ -17,19 +17,6 @@
             "type_id" : 2
         },
         {
-            "id" : 17,
-            "name" : "Jade Plant",
-            "description" : "Jade plants are terrestrial. The leaves are often clustered and are variable in shape. The inflorescence bears small flowers which are perfect, containing male and female structures. The flowers are contained in close together spirals on the spadix. The spadix is often elongated into a spike shape, but it can be globe-shaped or club-shaped. Beneath the spadix is the spathe, a type of bract. This is variable in shape, as well, but it is lance-shaped in many species. It may extend out flat or in a curve. Sometimes it covers the spadix like a hood. The fruits develop from the flowers on the spadix. They are juicy berries varying in color, usually containing two seeds.",
-            "price" : 1250,
-            "stars" : 3,
-            "img1" : "images/plantA2.jpg",
-            "img2" : "images/plantA2-1.jpg",
-            "location" : "Rillaulla,Kandana",
-            "created_at" : "2022-10-01 07:30:21",
-            "updated_at" : "2022-10-11 09:35:21",
-            "type_id" : 2
-        }, 
-        {
             "id" : 18,
             "name" : "Caladium",
             "description" : "Caladiums are tropical perennials with colorful, heart-shaped leaves native to tropical forests in South and Central America that have pronounced wet and dry seasons. Caladium bicolor, a Brazilian species, is the most common of several species in this genus in the arum family (Araceae) that are used as ornamentals. There are thousands of named cultivars of this species (sometimes listed as C. x hortulanum), but other species and hybrids are sometimes available. Although they are only hardy to zone 9 or 10, they are easily grown as summer “bulbs” or as houseplants.The two main types of caladiums are the fancy- leaved types, which have large, heart-shaped or semi-heart-shaped leaves on long petioles (12 to 30 inches tall), while the strap- or lance-leaved types, with their shorter and narrower, ruffle-edged leaves on short petioles, are more compact (usually less than 12 inches tall). The lance-leaved types (derived from C.picturantum) have more leaves per tuber than fancy-leaved types.",
@@ -40,6 +27,19 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-10-01 07:40:21",
             "updated_at" : "2022-10-11 09:45:21",
+            "type_id" : 2
+        }, 
+        {
+            "id" : 17,
+            "name" : "Jade Plant",
+            "description" : "Jade plants are terrestrial. The leaves are often clustered and are variable in shape. The inflorescence bears small flowers which are perfect, containing male and female structures. The flowers are contained in close together spirals on the spadix. The spadix is often elongated into a spike shape, but it can be globe-shaped or club-shaped. Beneath the spadix is the spathe, a type of bract. This is variable in shape, as well, but it is lance-shaped in many species. It may extend out flat or in a curve. Sometimes it covers the spadix like a hood. The fruits develop from the flowers on the spadix. They are juicy berries varying in color, usually containing two seeds.",
+            "price" : 1250,
+            "stars" : 3,
+            "img1" : "images/plantA2.jpg",
+            "img2" : "images/plantA2-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-10-01 07:30:21",
+            "updated_at" : "2022-10-11 09:35:21",
             "type_id" : 2
         }, 
         {
@@ -66,6 +66,19 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-11-01 06:35:21",
             "updated_at" : "2022-11-11 09:35:21",
+            "type_id" : 2
+        }, 
+        {
+            "id" : 19,
+            "name" : "Prayer Plant",
+            "description" : "Named for Bartolomeo Maranta, an Italian physician and botanist of the 16th century, the Maranta genus includes a few dozen low-growing plants native to Brazil, among them the prayer plant (Maranta leuconeura). It gets its common name from the fact that its leaves stay flat during the day and then fold up like praying hands at night.The prayer plant is one of the most distinguishable tropicals, thanks to its beautiful decorative leaves. The popular tri-color variety has deep green, velvety leaves with yellow splotches down the midrib and arching red veins traveling to the leaf margins. A slow-grower, the prayer plant can eventually reach up to a foot in height indoors. They are fairly popular as house plants and can be planted and cared for indoors during any time of the year, but they're not necessarily easy to keep growing over the long term.",
+            "price" : 1250,
+            "stars" : 3,
+            "img1" : "images/plantA12.jpg",
+            "img2" : "images/plantA12-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-05-01 07:30:21",
+            "updated_at" : "2022-05-11 09:35:21",
             "type_id" : 2
         }, 
         {
