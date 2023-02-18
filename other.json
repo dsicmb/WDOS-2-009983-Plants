@@ -30,6 +30,19 @@
             "type_id" : 2
         }, 
         {
+            "id" : 18,
+            "name" : "Caladium",
+            "description" : "Caladiums are tropical perennials with colorful, heart-shaped leaves native to tropical forests in South and Central America that have pronounced wet and dry seasons. Caladium bicolor, a Brazilian species, is the most common of several species in this genus in the arum family (Araceae) that are used as ornamentals. There are thousands of named cultivars of this species (sometimes listed as C. x hortulanum), but other species and hybrids are sometimes available. Although they are only hardy to zone 9 or 10, they are easily grown as summer “bulbs” or as houseplants.The two main types of caladiums are the fancy- leaved types, which have large, heart-shaped or semi-heart-shaped leaves on long petioles (12 to 30 inches tall), while the strap- or lance-leaved types, with their shorter and narrower, ruffle-edged leaves on short petioles, are more compact (usually less than 12 inches tall). The lance-leaved types (derived from C.picturantum) have more leaves per tuber than fancy-leaved types.",
+            "price" : 1150,
+            "stars" : 3,
+            "img1" : "images/plantA11.jpg",
+            "img2" : "images/plantA11-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-10-01 07:40:21",
+            "updated_at" : "2022-10-11 09:45:21",
+            "type_id" : 2
+        }, 
+        {
             "id" : 8,
             "name" : "Georgis Ruby",
             "description" : "It is a genus of about 47 species of monocotyledonous flowering plants in the family Araceae, native to tropical regions of the Americas and southeastern Asia. Certain species of Spathiphyllum are commonly known as spath or peace lilies.They are evergreen herbaceous perennial plants with large leaves 12-65 cm long and 3-25cm broad. The flowers are produced in a spadix, surrounded by a 10-30cm long, white, yellowish, or greenish spathe. The plant does not need large amounts of light or water to survive. They are most often grown as houseplants, however they are able to withstand the elements well enough to thrive when planted outdoors in situations that are hot and humid.",
