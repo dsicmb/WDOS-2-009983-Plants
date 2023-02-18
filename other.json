@@ -4,7 +4,7 @@
     "offset" : 0,
     "items" : [
         {
-            "id" : 6,
+            "id" : 16,
             "name" : "ZZ Plant",
             "description" : "ZZ Plant is an evergreen perinial growing to 45cm (18in), with round, pale, glossy green leaves. The upper surfaces of the leaves are marked with dark green blotches along the veins, and the lower surfaces coloured deep purple, with leaf shafts that are very thin. When new leaves grow they are rolled up and display their pinkish-red undersides. Like others in the genus, it has a horizontal soil stem, rhizome from which the plants grow up and the roots develop. It requires a minimum temperature of 16°C (61°F), and in temperate areas is often cultivated as a houseplant.This plant also raises and closes its leaves at night and opens them up again as dawn breaks.",
             "price" : 1150,
@@ -17,7 +17,7 @@
             "type_id" : 2
         },
         {
-            "id" : 7,
+            "id" : 17,
             "name" : "Jade Plant",
             "description" : "Jade plants are terrestrial. The leaves are often clustered and are variable in shape. The inflorescence bears small flowers which are perfect, containing male and female structures. The flowers are contained in close together spirals on the spadix. The spadix is often elongated into a spike shape, but it can be globe-shaped or club-shaped. Beneath the spadix is the spathe, a type of bract. This is variable in shape, as well, but it is lance-shaped in many species. It may extend out flat or in a curve. Sometimes it covers the spadix like a hood. The fruits develop from the flowers on the spadix. They are juicy berries varying in color, usually containing two seeds.",
             "price" : 1250,
