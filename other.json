@@ -4,7 +4,7 @@
     "offset" : 0,
     "items" : [
         {
-            "id" : 16,
+            "id" : 11,
             "name" : "ZZ Plant",
             "description" : "ZZ Plant is an evergreen perinial growing to 45cm (18in), with round, pale, glossy green leaves. The upper surfaces of the leaves are marked with dark green blotches along the veins, and the lower surfaces coloured deep purple, with leaf shafts that are very thin. When new leaves grow they are rolled up and display their pinkish-red undersides. Like others in the genus, it has a horizontal soil stem, rhizome from which the plants grow up and the roots develop. It requires a minimum temperature of 16°C (61°F), and in temperate areas is often cultivated as a houseplant.This plant also raises and closes its leaves at night and opens them up again as dawn breaks.",
             "price" : 1150,
@@ -84,7 +84,7 @@
         {
             "id" : 17,
             "name" : "Alocasia Plant",
-            "description" : "It is a gorgeous indoor plant yet for both children and pets, contact with alocasia can cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated.",
+            "description" : "Alocasia houseplants are known for their distinctive and stunning foliage. Broad heart- or arrowhead-shaped, textured leaves can feature flat or wavy edges and boast distinctive veining that is often creamed colored and provides a stark contrast from the deep green of the leaf. Alocasias have a very commanding presence. This plant pulls you in with its striking looks and undeniable charm and adds effortless style to any end table or bookcase.It is easier to care for the alocasia like all indoor plants when you understand more about its origin. These are subtropical plants that hail from Asia and Eastern Australia. In nature, these plants grow underneath a tree canopy, so the alocasia naturally develops large leaves to help give it an edge over other plants when it comes to soaking up sunlight. Some varieties of alocasia will grow into massive plants with exceptionally large leaves. Smaller types (Jewel Alocasias) are available that are more manageable and will not take over your home if space is a concern. Expect your alocasia to proliferate during the warmer months. These fast-growing houseplants can push out new leaves almost weekly when actively growing. Alocasia will hold steady until the next growing season when the weather turns cold. Under the right conditions, your alocasia will bloom. The flowers feature a spathe and spadix but are typically concealed by the leaves. The foliage of alocasia is the real showstopper.",
             "price" : 1550,
             "stars" : 3,
             "img1" : "images/plantA5.jpg",
@@ -97,7 +97,7 @@
         {
             "id" : 18,
             "name" : "Peparomia Plant",
-            "description" : "It is an elegant house plant yet for both children and pets, contact with dieffenbachia (typically from chewing) can cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated.",
+            "description" : "The family Piperaceae belongs to an ancient lineage of flowering plants known as Magnoliids. These plants are mostly tropical, and are the source of many of the essential oils and botanical oddities that we use today. Avocados, bay laurel, black pepper, cinnamon, magnolias, and nutmeg are all Magnoliids.Unlike plants Peperomia are distantly-related to, they are grown not for food purposes, but for ornamental purposes. Their flower spikes lack a perianth, or petals and sepals, and instead are borne on a spike. The spike, or inflorescence, is an easy way to identify a blooming plant is from the Piperaceae. It might not be the most attractive flower, however, Peperomia plants are grown for their beautiful foliage, not their blooms. They are semi-succulent, adaptable, visual-appealing, and pet-friendly—all characteristics that make for suitable houseplants.They have the ability to be propagated from any part of the plant, except for the roots. Stem, or even leaf, cuttings can root if given proper conditions, which makes it quite valuable in the horticultural industry. This ability is more common in more ancient lineages, but randomly; and whether or not it is an ancient characteristic, or just an evolutionary quirk remains to be known. Being relatively easy to grow species of Peperomia have been sold as houseplants since the 1930s.",
             "price" : 1550,
             "stars" : 3,
             "img1" : "images/plantA6.jpg",
@@ -110,7 +110,7 @@
         {
             "id" : 19,
             "name" : "Fecus Tricolor",
-            "description" : "It is one of the very best houseplants to clean the air. It also scores really well with resistance to pests and diseases and has a high transpiration rate which increases the humidity of the room it lives inIn such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated. In patients with exposure to toxic plants, 70% are children younger than 5 years.",
+            "description" : "When grown indoors, Tricolor Rubber Tree can be expected to grow to be about 10 feet tall at maturity, with a spread of 5 feet. It grows at a medium rate, and under ideal conditions can be expected to live for approximately 50 years. This houseplant will do well in a location that gets either direct or indirect sunlight, although it will usually require a more brightly-lit environment than what artificial indoor lighting alone can provide. It prefers dry to average moisture levels with very well-drained soil, and may die if left in standing water for any length of time. This plant should be watered when the surface of the soil gets dry, and will need watering approximately once each week. Be aware that your particular watering schedule may vary depending on its location in the room, the pot size, plant size and other conditions; if in doubt, ask one of our experts in the store for advice. It is not particular as to soil type or pH; an average potting soil should work just fine.There are many factors that will affect the ultimate height, spread and overall performance of a plant when grown indoors; among them, the size of the pot it's growing in, the amount of light it receives, watering frequency, the pruning regimen and repotting schedule. Use the information described here as a guideline only; individual performance can and will vary. Please contact the store to speak with one of our experts if you are interested in further details concerning recommendations on pot size, watering, pruning, repotting, etc.",
             "price" : 1650,
             "stars" : 3,
             "img1" : "images/plantA7.jpg",
@@ -157,6 +157,58 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-01 07:35:21",
             "updated_at" : "2022-12-11 09:35:21",
+            "type_id" : 2
+        },
+        {
+            "id" : 23,
+            "name" : "Snake Plant",
+            "description" : "Sansevieria are evergreen perennials that can grow anywhere from eight inches to 12 feet high. Their sword-like leaves are approximately two feet long. The foliage is stiff, broad, and upright, in a dark green color variegated with white and yellow striping. They are famous for their ability to survive in the most unsuitable growing conditions.They are also renowned for their qualities that help purify the air we breathe. Since they produce oxygen mainly at night, snake plants make for a great bedroom companion. The most commonly used species for gardening, Sansevieria trifasciata is also called mother-in-law’s tongue due to its sharply pointed leaves. Although it’s rare for these plants to bloom, you may wake up one day to find a long flower stalk covered in buds. This tends to happen when the plant is mildly stressed, but it won’t hurt your plant. Their white or cream colored flowers resemble lilies when fully open. Like some lilies, they boast a pleasing fragrance that can fill a room. Unfortunately, pests may also find the scent attractive.",
+            "price" : 1650,
+            "stars" : 3,
+            "img1" : "images/plantA13.jpg",
+            "img2" : "images/plantA13-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-03 07:35:21",
+            "updated_at" : "2022-12-13 09:35:21",
+            "type_id" : 2
+        },
+        {
+            "id" : 24,
+            "name" : "Calathea Dottie",
+            "description" : "Calathea Dottie is like the gothic cousin of the calathea family with her beautiful dark and pink foliage. Just like many other species of Calathea she can be fussy and difficult to look after, but for the same reason we continue to collect these plants, she really is stunning. If you follow our Calathea Dottie care guide then you should get a good idea of how it needs looking after but if you do have problems with this plant then you’re not alone.It’s very important that your Calathea Dottie does not receive direct light. If this plant is placed underneath direct sunlight it can burn the leaves and damage the plant. Firstly it can cause the colours to fade but even deeper than that it can cause substantial damage. Instead find a spot for it where it receives medium strength light and is protected from the sun. For this reason a north or east facing room can be a great choice.",
+            "price" : 1550,
+            "stars" : 3,
+            "img1" : "images/plantA14.jpg",
+            "img2" : "images/plantA14-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-04 07:35:21",
+            "updated_at" : "2022-12-14 09:35:21",
+            "type_id" : 2
+        },
+        {
+            "id" : 25,
+            "name" : "Golden Pothos",
+            "description" : "Pothos, also sometimes called devil’s ivy, golden pothos, or hunter’s rove, is one of the most popular house plants in North America. The scientific name is either Epipremnum pinnatum cv. ‘Aureum’ or E. aureum. However, there are a lot of characters on which E. pinnatum and ‘Aureum’ differ, so the latter may be more valid. In the past it has been classified under several different names including Pothos aureus, Rahphidophora aurea, R. pinnata, and Scindapsus aureus. This genus of about 15 species in the arum family (Araceae) occurs from Southeast Asia to the western Pacific. All are evergreen climbers with very different juvenile and mature foliage. In tropical regions pothos is grown as a ground cover or as a scrambler up trees. In our area it can be planted in hanging baskets, used as an underplanting for large potted plants or trees, or grown indoors as a pot plant or trained up a sphagnum pole. It is very efficient at removing indoor pollutants such as formaldehyde, xylene, and benzene.",
+            "price" : 1450,
+            "stars" : 3,
+            "img1" : "images/plantA15.jpg",
+            "img2" : "images/plantA15-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-05 07:35:21",
+            "updated_at" : "2022-12-15 09:35:21",
+            "type_id" : 2
+        },
+        {
+            "id" : 26,
+            "name" : "Royal Diamond",
+            "description" : "Aglaonema Royal Diamond is part of Araceae family. Plants are native to tropical and subtropical regions of Asia. Aglaonema is often known as Chinese Evergreen.It produces beautiful vibrant lemon-silver-dark green foliage, formed on white stems.Aglaonema is easy to care for, following its basic care requirements of bright indirect to medium light and medium watering. Let the soil dry out slightly, but not entirely, before the next watering. Pot size (diameter): 17 cm and Height with pot: 60cm.Please note that each plant is unique and variations of appearance may occur between each one.Let the soil dry out slightly, but not entirely, before the next watering. Pot size (diameter): 17 cm and Height with pot: 60cm.Please note that each plant is unique and variations of appearance may occur between each one.This plant is Happy at bright indirect to medium light.The ideal r temperature is 18°C – 23ºC.Let the top 5cm of the soil to dry out before next watering. The recommended humidity is 40 - 60%.",
+            "price" : 1350,
+            "stars" : 3,
+            "img1" : "images/plantA16.jpg",
+            "img2" : "images/plantA16-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-07 07:35:21",
+            "updated_at" : "2022-12-17 09:35:21",
             "type_id" : 2
         }
     ]
