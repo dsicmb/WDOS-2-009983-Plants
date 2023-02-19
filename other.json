@@ -210,6 +210,19 @@
             "created_at" : "2022-12-07 07:35:21",
             "updated_at" : "2022-12-17 09:35:21",
             "type_id" : 2
+        },
+        {
+            "id" : 27,
+            "name" : "Leopardina",
+            "description" : "How many plant collectors are ready to add a new plant to their massive assortment? Well, I have one extremely impressive recommendation, The Calathea Leopardina or Calathea Concinna, an easy to take care and gorgeous plant from the tropical rainforests of Brazil with remarkable greenery.The plant has marvelous bright green shovel-shaped leaves with a spotted pattern around the leaf-like a leopard, just like the name. The leaves attach to long, vertical stems that spread outwards in random directions giving a mystical display in any area of your house, whether it is a corner, garden, etc. It’s worth mentioning that taking care of it is just like squeezing a lemon, making it one of the greatest Calatheas for gardeners.The plant does require little attention to flourish. Calatheas are accustomed to the warm and humid temperatures of the rainforest environment, but the Leopardina’s can adapt to many settings, making it easy to take care plant. However, there are some things that you need to know so you can take care of it without messing up. You should know which soil mix how much water, fertilizer, and light it needs. You also need to know the best amount of humidity and temperature required for stable growth.",
+            "price" : 1850,
+            "stars" : 3,
+            "img1" : "images/plantA17.jpg",
+            "img2" : "images/plantA17-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-08 07:35:21",
+            "updated_at" : "2022-12-10 09:35:21",
+            "type_id" : 2
         }
     ]
 }
