@@ -1,5 +1,5 @@
 {
-    "total_size" : 7,
+    "total_size" : 8,
     "type_id" : 1,
     "offset" : 0,
     "items" : [
@@ -71,7 +71,7 @@
          {
             "id" : 6,
             "name" : "Albo Syngonium",
-            "description" : "Albo Syngonium is simply an eye catching house plant yet for both children, contact with may cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated.",
+            "description" : "Also known as goosefoot or arrowhead plant, syngonium albo is a particularly colorful type of arrowhead vine that features highly contrasting, variegated leaves in deep greens and white. At times, given proper light, syngonium albo can even take on a slightly pinkish hue.Native to Central and South America, arrowhead vines belong to the Araceae family, which contains twenty to thirty different species. Syngonium albo, like other arrowhead vines, grow in tropical forests where they creep along jungle floors and climb up the base of tree trunks with their aerial roots in search of light. As their natural habitat is shaded by the foliage of taller trees, syngonium have evolved to tolerate a wide range of lighting conditions, including partial shade.A fast-growing vine, syngonium is a beginner-friendly plant that can be trained to climb up a trellis or a moss pole or allowed to cascade naturally over pot edges for a softer look. When properly maintained, syngonium albo can grow quite large, reaching well over 6’ in length!",
             "price" : 1450,
             "stars" : 5,
             "img1" : "images/plant06.jpg",
@@ -84,7 +84,7 @@
          {
             "id" : 7,
             "name" : "Black Cardinal",
-            "description" : "Black Cardinal is such an elegant house plant yet for both children, contact with (typically from chewing) can cause a host of unpleasant symptoms, including intense numbing, oral irritation, excessive drooling, and localized swelling.However, these effects are rarely life-threatening. In most cases, symptoms are mild, and can be successfully treated with analgesic agents,antihistamines, or medical charcoal.[Moreover, severe cases can occur if Dieffenbachia makes prolonged contact with oral mucosal tissue. In such cases, symptoms generally include severe pain which can last for several days to weeks. Hospitalization may be necessary if prolonged contact is made with the throat, in which severe swelling has the potential to affect breathing. Gastric evacuation or lavage is seldom indicated.",
+            "description" : "Black Cardinal has glossy bronze and blackish green leaves with lush foliage . A hybrid, low growing, clumping tender perennial shrub, this philodendron is "self heading", meaning it does not climb or sprawl like a vine.The leaves are broadly oval or truly lance-shaped, emerging light orange or bronze. They slowly mature to a deeper, truly dark green with inclination to nearly black, and oldest leaves on the lowest part of the plant darkest and dullest. Flowers can arise during the warm months at anytime, being a blackish-red, cloak-like wrapping spathe around a white, finger-like spadix.Philodendrons grow best in medium light and bright indirect sunlight. Older leaves turn yellow naturally. However, several leaves turns yellow at once, it could be an indicator that the plant is getting too much sun. They will tolerate low light, but if the stems become leggy with several inches between the leaves, move the plant to a brighter location.",
             "price" : 1950,
             "stars" : 5,
             "img1" : "images/plant07.jpg",
@@ -92,6 +92,19 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-01 07:35:01",
             "updated_at" : "2022-12-11 09:35:21",
+            "type_id" : 2
+        },
+        {
+            "id" : 8,
+            "name" : "Medallion",
+            "description" : "Calathea Medallion AKA Calathea veitchiana is arguably one of the most beautiful low light plants. They are pretty popular to plant enthusiasts because of their large, "medallion"-like leaves: a brilliant green pattern on top, and a deep burgundy underneath. However, I do not recommend this plant for beginners or busy bees because it requires a bit of extra TLC to keep this plant happy and healthy. Calathea Medallion is part of the prayer plant family that sometimes people call it prayer-plants, but they are not true prayer-plants. The difference between Calathea Medallion and prayer-plants is in their leaves. Prayer plants' leaves fold upright at the base of the stem resembling praying hands. Meanwhile, if the leaves of your Calathea Medallion would curl up from the outer edges inward toward the central vein, check the environment because this means there's a problem with the environment where you placed your Calathea Medallion .Calatheas are tropical plants that can grow from 6 to 36 inches at most. This plant loves an environment with higher humidity, low-light, and moderate soil moisture.",
+            "price" : 1750,
+            "stars" : 5,
+            "img1" : "images/plant08.jpg",
+            "img2" : "images/plant08-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-05 08:35:01",
+            "updated_at" : "2022-12-13 09:55:21",
             "type_id" : 2
         }
     ]
