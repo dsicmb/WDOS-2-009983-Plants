@@ -1,5 +1,5 @@
 {
-    "total_size" : 11,
+    "total_size" : 19,
     "type_id" : 2,
     "offset" : 0,
     "items" : [
@@ -235,6 +235,19 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-09 08:35:21",
             "updated_at" : "2022-12-14 10:35:21",
+            "type_id" : 2
+        },
+        {
+           "id" : 29,
+            "name" : "Aloe Vera",
+            "description" : "Aloe Vera is a cactus-like plant that grows in hot, dry climates. It is cultivated in subtropical regions around the world, including the southern border areas of Texas, New Mexico, Arizona, and California.Historically, aloe vera has been used for skin conditions and was thought to improve baldness and promote wound healing.Aloe is used topically (applied to the skin) and orally. Topical use of aloe is promoted for acne, lichen planus (a very itchy rash on the skin or in the mouth), oral submucous fibrosis, burning mouth syndrome, burns, and radiation-induced skin toxicity. Oral use of aloe is promoted for weight loss, diabetes, hepatitis, and inflammatory bowel disease (a group of conditions caused by gut inflammation that includes Crohn’s disease and ulcerative colitis).In 2002, the U.S. Food and Drug Administration issued a ruling that required manufacturers to remove aloe from over-the-counter laxative products because of a lack of safety data.A number of studies have investigated the usefulness of aloe as a dietary supplement or a topical product for health purposes in people.",
+            "price" : 1250,
+            "stars" : 3,
+            "img1" : "images/plantA19.jpg",
+            "img2" : "images/plantA19-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-14 08:45:21",
+            "updated_at" : "2022-12-18 10:55:21",
             "type_id" : 2
         }
     ]
