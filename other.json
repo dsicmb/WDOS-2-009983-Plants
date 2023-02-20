@@ -1,5 +1,5 @@
 {
-    "total_size" : 19,
+    "total_size" : 20,
     "type_id" : 2,
     "offset" : 0,
     "items" : [
@@ -248,6 +248,19 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-14 08:45:21",
             "updated_at" : "2022-12-18 10:55:21",
+            "type_id" : 2
+        },
+        {
+           "id" : 30,
+            "name" : "Ficus Elastica",
+            "description" : "Ficus elastica, commonly called India rubber plant, India rubber tree or India rubber fig, is native from the Himalayas to Malaysia, Sumatra and Java. It is a broadleaf evergreen shrub or tree that may grow to 50-100’ tall in its native habitat. It is widely grown in the tropics as an ornamental tree. Mature trees develop banyan-like aerial roots that form trunks. In colder climates, this is an extremely popular houseplant that typically grows to 2-10’ tall. It is noted for its thick, leathery, glossy, dark green leaves and pink to purplish stipules. Milky sap from these trees was used to make an inferior rubber in the early 1900s. Small oblong axillary fruits in pairs are rarely seen on plants outside of its tropical native habitat.Winter hardy to USDA Zones 10-12. Grow as a houseplant in St. Louis. Easily grown in a soil-based potting mix. Site indoors in bright indirect light or part shade with protection from afternoon sun. Water regularly during the growing season. Avoid overwatering. Reduce watering from fall to late winter. Prune main branches to encourage a bushier habit, or leave unpruned to create a tall, narrow, more tree-like form.",
+            "price" : 1550,
+            "stars" : 3,
+            "img1" : "images/plantA20.jpg",
+            "img2" : "images/plantA20-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-15 08:45:21",
+            "updated_at" : "2022-12-19 10:55:21",
             "type_id" : 2
         }
     ]
