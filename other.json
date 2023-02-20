@@ -223,6 +223,19 @@
             "created_at" : "2022-12-08 07:35:21",
             "updated_at" : "2022-12-10 09:35:21",
             "type_id" : 2
+        },
+         {
+            "id" : 28,
+            "name" : "Lady Valentine",
+            "description" : "This Lady Valentine Aglaonema is also quite an undemanding plant.considered to be a shade tolerant plant with the glossy crime-green dot on leaves with red edges. The leaves of the species are oval and the trunk is erect. The plant is often grown in offices due to its unpretentiousness (this cultivar requires minimal care) and beautiful ornamental leaves.It is usually grown as an annual. It is easily grown in moist, organically rich, well-drained soils in full sun. Avoid overhead watering. Start seeds indoors 6-10 weeks before the last frost date or purchase starter plants. Set out plants/seedlings after the last frost date.The Aglaonema Lady Valentine is a highly decorative plant and one of the most used interior landscape plant. It is easiest of all house plants to grow, with several interesting varieties. The darker green varieties can grow in near shade but while the variegated varieties require brighter light.It is a species of genus aglaonema categorized under Araceae plants family. Aglaonema is also known as Chinese evergreen. Aglaonema plants are attractive, varied, tough, drought-tolerant, low maintenance and hard to kill houseplants with colorful foliage.",
+            "price" : 1450,
+            "stars" : 3,
+            "img1" : "images/plantA18.jpg",
+            "img2" : "images/plantA18-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-09 08:35:21",
+            "updated_at" : "2022-12-14 10:35:21",
+            "type_id" : 2
         }
     ]
 }
