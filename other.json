@@ -1,5 +1,5 @@
 {
-    "total_size" : 20,
+    "total_size" : 22,
     "type_id" : 2,
     "offset" : 0,
     "items" : [
@@ -261,6 +261,32 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-15 08:45:21",
             "updated_at" : "2022-12-19 10:55:21",
+            "type_id" : 2
+        },
+        {
+           "id" : 31,
+            "name" : "Elliptica",
+            "description" : "The genus Calathea consists of more than 300 species which usually live in the relatively lowlight and humid conditions of the understories of tropical forests. Whilst many plants in this environment, such as climbers, have evolved to get closer to the light above, Calatheas have adapted to the conditions provided by the forest floor.In their natural habitat, many Calatheas produce beautiful and boldly coloured flowers, but its their striking foliage which has led them to become a popular houseplant. So much so, that there are now countless cultivars each with their own unique foliage, ensuring that there’s a Calathea for everybody, and every home.Calathea elliptica is native to South America, where it lives on the rainforest floor. ‘Vitatta’ is a slightly obscure cultivar that is praised for its distinctive white stripes which appear almost painted on the leaves.The genus Calathea consists of more than 300 species which usually live in the relatively lowlight and humid conditions of the understories of tropical forests.",
+            "price" : 1750,
+            "stars" : 3,
+            "img1" : "images/plantA21.jpg",
+            "img2" : "images/plantA21-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-18 09:45:21",
+            "updated_at" : "2022-12-20 11:55:21",
+            "type_id" : 2
+        },
+        {
+           "id" : 32,
+            "name" : "Schefflera",
+            "description" : "The schefflera houseplant is a popular plant and comes in many varieties. The most well known are the umbrella tree and the dwarf umbrella tree. One of the reasons the plant is popular is because schefflera plant care is so easy, but, while schefflera care is easy, the plant does need to be cared for. Keep reading to learn more about growing schefflera and keeping it healthy and lush. Schefflera Plant Care Instructions There are two very important parts to proper schefflera care. The first is correct sunlight and the second is proper watering.Schefflera is a large genus of tropical plants that includes two species that make wonderful tropical house plants. The larger Schefflera actinophylla (sometimes called the umbrella plant or umbrella tree) features long, shiny, oval green leaves that droop gracefully from a central stalk, resembling an umbrella. A mature Schefflera might have 12 to 16 leaflets from a single stalk, while an immature Schefflera is more likely to have four to six. Schefflera arboricola (sometimes called dwarf Schefflera) features smaller, glossy leaves, sometimes with creamy variegation. Other than the smaller size, it looks very similar to its taller cousin.",
+            "price" : 1950,
+            "stars" : 3,
+            "img1" : "images/plantA22.jpg",
+            "img2" : "images/plantA22-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-19 18:45:21",
+            "updated_at" : "2022-12-22 20:55:21",
             "type_id" : 2
         }
     ]
