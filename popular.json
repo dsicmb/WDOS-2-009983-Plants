@@ -1,5 +1,5 @@
 {
-    "total_size" : 8,
+    "total_size" : 10,
     "type_id" : 1,
     "offset" : 0,
     "items" : [
@@ -102,6 +102,32 @@
             "stars" : 5,
             "img1" : "images/plant08.jpg",
             "img2" : "images/plant08-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-05 08:35:01",
+            "updated_at" : "2022-12-13 09:55:21",
+            "type_id" : 2
+        },
+        {
+            "id" : 9,
+            "name" : "Caperata",
+            "description" : "Whether you’re a beginner, or just looking for another unique plant to add up your collection, Peperomia caperata is for you. Its lush green leaves with purple-red stems aren’t only a sight to be enjoyed, but also its seemingly red rat tail flowers.Also called ‘Emerald Ripple’ Peperomia caperata is a tropical plant native to Brazil and enjoys higher humidity, though it doesn’t really mind being a houseplant as long as it is well taken care of. Besides, it does not really require a lot of attention, plus, it is pet-friendly. Peperomia caperata has the habit of retaining water, they do not require a regular watering schedule, and since Brazil’s tropical rainforests have thick and tall trees, this plant does not love direct sunlight. If you’re eyeing this plant and are ready to know how to care for it in the simplest ways, we have written care tips for you.",
+            "price" : 1650,
+            "stars" : 5,
+            "img1" : "images/plant09.jpg",
+            "img2" : "images/plant09-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-05 08:35:01",
+            "updated_at" : "2022-12-13 09:55:21",
+            "type_id" : 2
+        },
+        {
+            "id" : 10,
+            "name" : "Emerald Bay",
+            "description" : "The Aglaonema Emerald Bay is just one of many varieties of Chinese Evergreen. An attractive, easy to care for plant, it is on just about everyones list of best indoor house plants. Aglaonema plants can be maintained at the lower light levels.often found in the home or office. Although there are many varieties of this plant, the care for all Aglaonema plants is very similar.Emerald Bay is very easy to care for and will be a very solid addition to any interiorscape. We offer this plant in a 10 in. pot up to 28 inches tall and in a 14 in. pot up to 34 inches tall. Both are full and beautiful. Tropical foliage at its best!Some of the more common Aglaonema plant varieties are the Aglaonema Emerald Beauty, Silver Queen and the Aglaonema Silver Bay. Aglaonemas have a bush-like or clumping growth and, depending on the pot size, can be from 8 inches to 4 feet in height. These Aglaonemas are often used in interior landscapes.",
+            "price" : 1550,
+            "stars" : 5,
+            "img1" : "images/plant10.jpg",
+            "img2" : "images/plant10-1.jpg",
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-05 08:35:01",
             "updated_at" : "2022-12-13 09:55:21",
