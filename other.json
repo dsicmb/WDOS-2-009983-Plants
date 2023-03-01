@@ -1,5 +1,5 @@
 {
-    "total_size" : 22,
+    "total_size" : 23,
     "type_id" : 2,
     "offset" : 0,
     "items" : [
@@ -287,6 +287,19 @@
             "location" : "Rillaulla,Kandana",
             "created_at" : "2022-12-19 18:45:21",
             "updated_at" : "2022-12-22 20:55:21",
+            "type_id" : 2
+        },
+        {
+           "id" : 33,
+            "name" : "White Fairy",
+            "description" : "The Spider White is a strong & gracious Haworthia limifolia. Plant Specifications Haworthia limifolia is grooves and ridges on the leaves, but the ridges in this plant are highlighted with a whitish color, making it one of the most ornamental of all the Haworthias. It grows the new offset easily.Its fuss free, cute, and grows in perfectly symmetrical rosettes. What more could one want from a plant! The Haworthia Limiifolia is a darling of the succulent world for its ability to thrive in near neglect and still produce more and more stunning variegations every day. A great addition to any home, the Haworthia is also pet friendly.The Spider White is a strong & gracious Haworthia limifolia. Plant Specifications Haworthia limifolia is grooves and ridges on the leaves, but the ridges in this plant are highlighted with a whitish color, making it one of the most ornamental of all the Haworthias.",
+            "price" : 1850,
+            "stars" : 3,
+            "img1" : "images/plantA23.jpg",
+            "img2" : "images/plantA23-1.jpg",
+            "location" : "Rillaulla,Kandana",
+            "created_at" : "2022-12-20 18:55:21",
+            "updated_at" : "2022-12-23 20:55:29",
             "type_id" : 2
         }
     ]
